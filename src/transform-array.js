@@ -38,7 +38,6 @@ module.exports = function transform(arr) {
         newArr.push(el)
       }
     }
-    console.log(newArr)
   }
   
   return newArr
